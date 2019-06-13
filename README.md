@@ -7,7 +7,7 @@ Reluctance/difficulty involved in learning the English language has severely dep
 ## Goals
 
 > * Create a computer programming text book in Urdu that spikes the interest of its readers. Once the interest is ignited, the readers can expand their horizons by moving on to English based material.
-> * The target audience will be the under privileged people of the urdu speaking community.
+> * The target audience will be the urdu speaking community in the rural/urban areas of Pakistan that is privileged enough to own a working computer.
 > * The goal is to provide the audience with a reference urdu text book that can help them get started with the fundamentals of computer programming.
 > * The ultimate goal however is to bundle the reference text with online infrastructure that can help them get started quickly. The audience should not have to deal with the complexities of configuring software on their machines.
 
