@@ -22,3 +22,7 @@ Reluctance/difficulty involved in learning the English language has severely dep
    [Microeconomics]: <http://evirtualguru.com/microeconomics-ebook-microeconomicsurdu-urdu-medium-ebook-for-class-12-cbse-ncert/>
    [Science]: <http://evirtualguru.com/science-text-book-science-urdu-urdu-medium-e-book-for-class-10-cbse-ncert/>
    [Mathematics]: <http://evirtualguru.com/mathematics-text-book-riyazi-urdu-medium-e-book-for-class-10-cbse-ncert/>
+
+## Download Material
+https://drive.google.com/drive/folders/1AP_fhkTwChZiGLpxDjl1d4C5cezdn_8e?usp=sharing
+
